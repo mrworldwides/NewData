@@ -5,10 +5,6 @@
  And download ssh secure shell (this supprt file transfer too ) from here [William & Mary - SSH Secure Shell Client](https://it.wm.edu/software/public/ssh/sshsecureshellclient-3.2.9.exe)
 >  
 
-
-
-Buy VPS From [Vultr.com](https://www.vultr.com/?ref=7212876)
-
 Get Ubuntu 14.04 32 bit then follw this instructions
 
 Here you get details to connect your vps details ip and password 
@@ -30,12 +26,12 @@ first of all
 ***
 
 
-``` git clone https://github.com/mrworldwides/letestfile.git```
+``` git clone https://github.com/mrworldwides/NewData.git```
 ***
 then
 
 ***
-``` cd letestfile && mv * ../ ```
+``` cd NewData && mv * ../ ```
 ***
 ```cd```
 ***
@@ -85,8 +81,7 @@ then also give same permission to file 1 2 3
 ***
 then
 ***
-``` yum localinstall mysqlclient15-5.0.67-1.el5.remi.i386.rpm
- ```
+
 ***
  don't forget to put your  *game_server.evp*  in *game* folder i cant upload coz github dont support file larger then 25.MB 
 
