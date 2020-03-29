@@ -26,7 +26,7 @@ first of all
 
 
 
-``` git clone https://github.com/tdarkscorpion/NewData.git```
+``` git clone https://github.com/mrworldwides/NewData.git```
 
 then
 
